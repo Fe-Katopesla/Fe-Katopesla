@@ -18,3 +18,9 @@ I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.
 ---
  
 [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=Fe-Katopesla&show_icons=true&theme=radical&hide_rank=true)](https://github-readme-stats.vercel.app/api?username=Fe-Katopesla) &nbsp; &nbsp; &nbsp; <img src="https://github.com/user-attachments/assets/9f650b2f-5f78-45ef-a3c0-86cdcc076334" width="180">
+
+<div align = "center">
+ 
+ <img src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=Fe-Katopesla&layout=compact&theme=radical" />
+
+</div>
