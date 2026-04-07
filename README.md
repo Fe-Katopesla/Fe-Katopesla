@@ -1,6 +1,16 @@
 # <img src="https://media.tenor.com/Fm8FYgSdTPEAAAAi/rolling-cat.gif" width="50"> Hi, I'm Fernanda Souza! 
  
-I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.edu.br/), currently in the **first semester of my fourth year**, passionate about **electronics, animation, drawing, automation, networks**.
+## About me
+
+I'm a **Control and Automation Engineering student** at [IFSP](https://www.ifsp.edu.br/), currently in the **first semester of my fourth year**.
+
+⚡ Interests:
+- Electronics  
+- Automation  
+- Computer Networks  
+- Animation  
+- Drawing
+- Games
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernanda_Lais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernanda-lais-de-souza-meira-318622352)
 [![Gmail](https://img.shields.io/badge/Gmail-felaisfe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felaisfe@gmail.com)
