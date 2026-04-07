@@ -1,2 +1,2 @@
+[![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=Fe-Katopesla&show_icons=true&theme=radical&hide_rank=true)](https://github-readme-stats.vercel.app/api?username=Fe-Katopesla) &nbsp; &nbsp; &nbsp; <img src="![rolling-cat-cat-rolling](https://github.com/user-attachments/assets/9f650b2f-5f78-45ef-a3c0-86cdcc076334)" width="120">
 
-[![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=Fe-Katopesla&show_icons=true&theme=radical&hide_rank=true)](https://github-readme-stats.vercel.app/api?username=Fe-Katopesla&show_icons=true&theme=radical&hide_rank=true)
